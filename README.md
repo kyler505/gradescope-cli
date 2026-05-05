@@ -149,3 +149,15 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Original development for CSCE 421 Machine Learning at Texas A&M
 - Built on the `gradescopeapi` PyPI package
+
+## Scripts
+
+The `scripts/` directory contains debug and helper scripts for specific tasks:
+
+- `gs_assignment_debug.py` - Debug course and assignment listings
+- `gs_find_form.py` - Helper for finding Gradescope forms
+- `gs_form_slice.py` - Slice form data for analysis
+- `gs_resubmit_debug.py` - Debug resubmission issues
+- `gs_upload_debug.py` - Debug file upload process
+
+These scripts are primarily for development and troubleshooting purposes.
