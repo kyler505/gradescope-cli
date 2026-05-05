@@ -10,3 +10,16 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+auth.txt
+
+# Local config
+.env
+.config/
+.vscode/
+
+# OS X
+.DS_Store
+
+# Backup files
+*.bak
+*~
